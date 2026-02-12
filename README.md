@@ -65,4 +65,4 @@ All SQL errors and failed queries are automatically logged to the server log for
 MIT License
 
 ## Author
-Brian Restu Pratiwa (Inspired Version)
+brianrstp (Inspired Version)
