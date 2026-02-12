@@ -1,6 +1,6 @@
 /*
  * EasyDB ORM for open.mp / SA-MP
- * Author: Brian Restu Pratiwa (Inspired Version)
+ * Author: brianrstp (Inspired Version)
  * * Features: 
  * - Automated MySQL Mapping
  * - Smart Dirty Checking (Only Save when data changed)
